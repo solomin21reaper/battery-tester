@@ -12,6 +12,3 @@ input.onButtonPressed(Button.B, function () {
 })
 let millivolts = 0
 basic.showString("battery tester")
-basic.forever(function () {
-	
-})
